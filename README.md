@@ -34,4 +34,4 @@ npm run build
 npm run lint
 ```
 
-### Hosted Site [Here]((https://repo-lister.vercel.app/))
+### Hosted Site [Here](https://repo-lister.vercel.app/)
